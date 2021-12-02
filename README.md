@@ -1,4 +1,4 @@
-# Qirab Conservation Book Support
+# Qirab™ Conservation Book Support
 
 The Qirab Conservation Book Support project was inspired be the <a href="https://www.conservation-wiki.com/wiki/BPG_Materials,_Equipment,_and_Tools">Adaptable Conservation Book Support</a> designed by <a href="https://www.roger-s-williams.com/adaptable-conservation-book-support/3ds8jrxyvxj741mdo0jf9p0i4t2osp">Roger S. Williams</a> and the 3D Printing additions at the <a href="https://www.aucklandmuseum.com/discover/stories/blog/2020/newest-trick-in-the-book">Auckland War Memorial Museum blog</a>.
 
