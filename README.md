@@ -2,7 +2,7 @@
 
 An open-source manuscript repair support hardware design
 
-[QCC50v1](QirabConservationCradle_ver1_KWH_4294.jpg)
+![QCC50v1](QirabConservationCradle_ver1_KWH_4294.jpg)
 
 The Qirab™ Conservation Cradle is an open-source book support design intended to securely hold books open during conservation treatment, scientific analysis, documentation, and preservation works. It facilitates a hands-free holding of the book in a stable and adjustable position without extreme pressure.
 
