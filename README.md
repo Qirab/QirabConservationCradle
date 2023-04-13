@@ -3,6 +3,7 @@
 An open-source manuscript repair support hardware design
 
 حامل حفظ مخطوطات ذو العلامة التجارية قِرَاب - QCC50
+
 تصميم أجهزة دعم ترميم المخطوطات مفتوحة المصدر
 
 ![QCC50v1](QirabConservationCradle_ver1_KWH_4294.jpg)
