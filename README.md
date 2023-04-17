@@ -1,4 +1,4 @@
-# Qirab™ Conservation Cradle - QCC50 ver1
+# Qirab™ Conservation Cradle - QCC50
 
 An open-source manuscript repair support hardware design
 
