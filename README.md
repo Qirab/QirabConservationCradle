@@ -2,6 +2,7 @@
 
 An open-source manuscript repair support hardware design
 
+حامل قِراب لترميم المخطوطات هو تصميم مفتوح المصدر لدعم وتثبيت المخطوطات اثناء عمليات الترميم والصيانة
 
 ![QCC50v1](QirabConservationCradle_ver1_KWH_4294.jpg)
 
