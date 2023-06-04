@@ -8,6 +8,8 @@ An open-source manuscript repair support hardware design
 
 تم تصميم حامل قِراب لترميم المخطوطات بهدف الحفاظ على المجلدات مفتوحة بشكل آمن أثناء عمليات الترميم والصيانة، والتحليل العلمي، والتوثيق، وأعمال الحفظ. يُسهل هذا الحامل تثبيت المجلدات دون الحاجة لاستخدام اليدين في وضعية ثابتة وقابلة للتعديل وبدون الحاجة للضغط الشديد.
 
+إقرأ المزيد [Qirab™ project page](https://qirab.org/en/docs/hardware/conservationcradle/).
+
 The Qirab™ Conservation Cradle is an open-source book support design intended to securely hold books open during conservation treatment, scientific analysis, documentation, and preservation works. It facilitates a hands-free holding of the book in a stable and adjustable position without extreme pressure.
 
 Read more on the [Qirab™ project page](https://qirab.org/en/docs/hardware/conservationcradle/).
