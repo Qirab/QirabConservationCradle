@@ -1,3 +1,6 @@
 [submodule "QirabTools"]
 	path = QirabTools
 	url = https://github.com/Qirab/QirabTools
+[submodule "QirabTargetHolder"]
+	path = QirabTargetHolder
+	url = https://github.com/Qirab/QirabTargetHolder
