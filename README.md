@@ -11,7 +11,7 @@ QC44 v2.3
 
 إقرأ المزيد [حامل قِرَاب لترميم المخطوطات - QCC50](https://qirab.org/docs/hardware/conservationcradle/).
 
-![QCC55v2.3 CAD rendering with Tools](https://github.com/Qirab/QirabConservationCradle/blob/main/QCC55v2.3_CAD_withTools.png)
+![QCC55v2.3 CAD rendering with Tools](https://github.com/Qirab/QirabConservationCradle/blob/main/QCC50v2.3_CAD_withTools.png)
 QCC50 v2.3 CAD rendering with Tools
 
 The Qirab™ Conservation Cradle is an open-source book support design intended to securely hold books open during conservation treatment, scientific analysis, documentation, and preservation works. It facilitates a hands-free holding of the book in a stable and adjustable position without extreme pressure.
